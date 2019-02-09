@@ -1,0 +1,3 @@
+Sitemap: https://rainymind.app/sitemap.xml
+User-agent:*
+Disallow:
